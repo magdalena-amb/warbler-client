@@ -78,8 +78,8 @@ ul.nav.navbar-nav li {
 
 a.btn.btn-outline-danger {
   position: absolute;
-  right: 10px;
-  bottom: 10px;
+  right: 5px;
+  bottom: 5px;
 }
 
 a.btn.btn-outline-danger:hover {
