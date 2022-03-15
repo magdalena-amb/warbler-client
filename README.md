@@ -1,15 +1,18 @@
 View the App here:
 
 https://warbler-frontend-practice.herokuapp.com/
+___
 
-or go to https://github.com/magdalena-amb/warbler-server 
-and start the server in the project directory using:
-##node index.js 
-This will start the server on port 8081.
+or open https://github.com/magdalena-amb/warbler-server,
+download the project files to you local machine
+run ## **npm install** 
+and start the server in the project directory:
+run ## **node index.js** 
+This will spin up the server on you local machine on port 8081.
 
-Then return here and in the warbler-client directory run:
-
-##npm start
+Then return here, download the warbler-client files,
+run ## **npm install** 
+## **npm start**
 This will start the react scripts and open the project on localhost:3000.
 
 
