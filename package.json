@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.21.4",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.28.0",
+    "moment": "^2.29.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-moment": "^0.9.7",
